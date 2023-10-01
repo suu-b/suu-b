@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://www.canva.com/design/DAFv_SYTYDk/Ci4z7VlAYJhaZTqoZfBvlg/edit?utm_content=DAFv_SYTYDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFv_SYTYDk/Ci4z7VlAYJhaZTqoZfBvlg/edit?utm_content=DAFv_SYTYDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" align="center" style="width: 100%" />
+<img src="https://ibb.co/6NgB070" align="center" style="width: 100%" />
 </div>  
   
 
@@ -73,10 +73,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShubhamThakur025&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
+<br/>    
   
 
 <br/>  
@@ -95,5 +92,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
