@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamthakur025" alt="shubhamthakur025" /></a> </p>
 
-- 🔭 I’m currently working on **a game called CandyHunt**
+- 🔭 I’m currently working on **honing my skills**
 
 - 🌱 I’m currently learning **Frontend and C++**
 
 - 📫 How to reach me **thakur0805@gmail.com**
 
-- ⚡ Fun fact **I prefer tab over spaces**
+- ⚡ A Joke **Why do programmers prefer dark mode?
+Because light attracts bugs! 😂**
 
 <h3 align="left">Languages and Tools:</h3>
 <p>HTML</p>
