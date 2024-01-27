@@ -15,11 +15,12 @@
 Because light attracts bugs! 😂**
 
 <h3 align="left">Languages and Tools:</h3>
-<p>HTML</p>
-<p>CSS</p>
-<p>JS</p>
-<p>Basic Python</p>
-<p>Basic C++</p>
+<p>1. HTML</p>
+<p>2. CSS</p>
+<p>3. JS</p>
+<p>4. React.js</p>
+<p>5. Basic Python</p>
+<p>6. Basic C++</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamthakur025&show_icons=true&locale=en&layout=compact" alt="shubhamthakur025" /></p>
 
