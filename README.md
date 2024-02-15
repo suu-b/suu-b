@@ -18,6 +18,7 @@ Because light attracts bugs! 😂**
 
 <p>HTML | CSS | JavaScript | React.js</p>
 <p>C++ | Python</p>
+<p>Tailwind CSS</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamthakur025&show_icons=true&locale=en&layout=compact" alt="shubhamthakur025" /></p>
 
