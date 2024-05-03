@@ -14,12 +14,16 @@
 - ⚡ A Joke **Why do programmers prefer dark mode?
 Because light attracts bugs! 😂**
 
-<h3 align="left">Languages and Tools:</h3>
-
+<h3 align="left"><b>Languages and Tools:</b></h3>
+<b>Frontend:</b>
 <p>HTML | CSS | JavaScript | React.js</p>
 <p>C++ | Python</p>
 <p>Tailwind CSS</p>
 
+<b>Backend:</b>
+<p>Node.js</p>
+<p>Express</p>
+<p>MongoDB</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamthakur025&show_icons=true&locale=en&layout=compact" alt="shubhamthakur025" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamthakur025&show_icons=true&locale=en" alt="shubhamthakur025" /></p>
