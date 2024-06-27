@@ -21,9 +21,7 @@ Because light attracts bugs! 😂**
 <p>Tailwind CSS</p>
 
 <b>Backend:</b>
-<p>Node.js</p>
-<p>Express</p>
-<p>MongoDB</p>
+<p>Node.js | Express </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamthakur025&show_icons=true&locale=en&layout=compact" alt="shubhamthakur025" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamthakur025&show_icons=true&locale=en" alt="shubhamthakur025" /></p>
