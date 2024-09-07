@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamthakur025" alt="shubhamthakur025" /></a> </p>
 
-- 🔭 I’m currently honing my skills in **Frontend and C++**
+- 🔭 I’m currently honing my skills in **Java**
 
 - 🌱 I’m currently learning **Web Development and DSA**
 
