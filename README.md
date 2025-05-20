@@ -1,4 +1,6 @@
-👋 Hi, I’m Shubham! <br>🔭 I’m currently working on [Harmonia](https://github.com/ShubhamThakur025/Harmonia)<br>🌱 I’m currently learning Java and Scala<br>🤩 Loves everything that involves creativity <br> 🤝 Checkout my portfolio [here](https://suub.netlify.app/) <br/><br/>
+<p align="center"> Hi 👋 <br> I'm Shubham (suu-b) ! </p>
 
-![About me!](output.gif)
+---
+
+As of Summer 2025, I'm a CS student exploring the tech world I've stumbled into. I love to do creative stuff. The greatest gift software engineering has given me is the ability to materialize my ideas. You can learn more about me [here](https://suub.netlify.app/). Feel free to stroll through the repositories I've created — most are personal projects, while others are from coursework. Thanks for stopping by!
 
